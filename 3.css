@@ -92,7 +92,8 @@ hr{
     border: rgb(213, 213, 213);
 }
 tr::first-letter{
-    background-color: black;
+    background-color: rgb(33, 33, 33,0.7);
+    
 }
 .box1{
     background-color: rgb(33, 33, 33,0.7);
