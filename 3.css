@@ -88,7 +88,12 @@ iframe {
     border: 1px solid black;
     width: 100%;
 }
-
+hr{
+    border: rgb(213, 213, 213);
+}
+tr::first-letter{
+    background-color: black;
+}
 .box1{
     background-color: rgb(33, 33, 33,0.7);
 
@@ -120,7 +125,4 @@ iframe {
 }
 .box8{
     color: rgb(241, 241, 241);
-}
-hr{
-    border: rgb(213, 213, 213);
 }
